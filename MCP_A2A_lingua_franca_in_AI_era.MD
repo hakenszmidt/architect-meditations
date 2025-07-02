@@ -9,6 +9,6 @@ If asked for an empire ww would quickly come back with Ancient Rome. The uccess 
 What help Romans expad so quickly and maintain its belongins is a result of a one more thing - the common language.
 
 > **lingua franca**, language used as a means of communication between populations speaking vernaculars that are not mutually intelligible.
-> *Encyclopedia Britannica*
+> [*Encyclopedia Britannica*](https://www.britannica.com/topic/lingua-franca)
 
 ## 1.3. AI and "Back to the Presence"
