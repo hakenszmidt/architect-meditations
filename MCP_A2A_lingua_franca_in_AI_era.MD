@@ -10,5 +10,10 @@ What help Romans expad so quickly and maintain its belongins is a result of a on
 
 > **lingua franca**, language used as a means of communication between populations speaking vernaculars that are not mutually intelligible.
 > [*Encyclopedia Britannica*](https://www.britannica.com/topic/lingua-franca)
+> At any modern, international workplace (like EPAM) we use today English as lingua franca. Other examples are Old Church Slavonic attributed to Saint Cyril, who managed with its help to spread christanity across Slavic people. In northern India people quite often use Hindi, it is also one of two official Indian languages. In Africa we have Swahili, *hakuna matata*.
+
+Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. 2 common languages, Latin and Kone Greek (in east) helped tremendously. The empire poke in to many native languagues to let any merchant posses enough number of slave translators...
 
 ## 1.3. AI and "Back to the Presence"
+
+But why 
