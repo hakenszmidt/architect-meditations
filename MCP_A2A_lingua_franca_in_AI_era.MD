@@ -1,3 +1,5 @@
+# MCP&A2A - lingua franca or the buzzwords?
+
 # 1. Introduction
 
 ## 1.1. S.P.Q.R.
@@ -12,9 +14,9 @@ What help Romans expad so quickly and maintain its belongins is a result of a on
 > [*Encyclopedia Britannica*](https://www.britannica.com/topic/lingua-franca)<br>
 > At any modern, international workplace (like EPAM) we use today English as lingua franca. Other examples are Old Church Slavonic attributed to Saint Cyril, who managed with its help to spread christanity across Slavic people. These days, in northern India people quite often use Hindi, it is also one of two official Indian languages. In Africa we have Swahili, *hakuna matata*.
 
-Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. 2 common languages, Latin and Kone Greek (in east) helped tremendously. The empire poke in to many native languagues to let any merchant posses enough number of slave translators...
+Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. Two common languages, Latin and Kone Greek (in east) helped tremendously. The empire spoke in too many native languagues to let even rich merchant posses enough number of slave translators...
 
 ## 1.3. AI and "Back to the Presence"
 
-But why the examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols.
+But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols.
 It is actually quite simple. Please let me explain:smile:
