@@ -28,5 +28,12 @@ But why the beforementioned examples of Roman Empire and lingua franca are discu
 It is actually quite simple. Please let me explain.
 
 # 2. New Kids On The Block
-**Model Contenct Protocol** (MCP) and **Agent-To-Agent** (A2A - do not mistake with SAP's "application to application" integration type) are gaining a lot of attention. Do we need even more protocol complexity in already complex integration world? And most importantly do we REALLY need something new?
+**Model Contenct Protocol** (MCP) and **Agent-To-Agent** (A2A - do not mistake with SAP's "application to application" integration type) are gaining recently a lot of attention. Many experts argue do we really need anything new. Many of them points at OAS/Swagger and promotes idea that AI interacts directly with APIs with no adiitional abstraction layer. 
+
+## 2.1. Solution looking for a problem
+Always start with the problem and not the solution. Is seems obvious that when you create a solution first you are later forced to spend countless hours on convincing people that they need it.
+Describing AI as "a solution looking for a problem" (thanks again Vlad Grubman!) resonates with me. Multiple organizations investing a lot of efforts (and money) to find best ways how AI can make their bussineses more profitable and competitive. But there are many challenges, not only data quality ("garbage-in, garbage-out"). On of the most profound are difficult integrations with complex and legacy IT infrastructure. Having trust in AI it will create a proper REST request based on partial, outdated specification seems to be a sort of a wishful thinking. Let's admit - it is hard to build and deploy AI applications, they simply require much custom work on letting models interact with data and users.
+
+## 2.2. Solution to "solution looking for a problem" problem
+
 
