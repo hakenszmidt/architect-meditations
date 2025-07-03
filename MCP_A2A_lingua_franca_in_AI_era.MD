@@ -3,6 +3,9 @@
 
 # 1. Introduction
 
+> To be ignorant of the past is to be forever a child.<br>
+> *Marcus Tullius Cicero*
+
 ## 1.1. S.P.Q.R.
 
 If asked for an empire ww would quickly come back with Ancient Rome. The uccess  of Roman Empire was a result of a combination of multiple factors allowing it to reach its peak during Pax Romana times (27 BCE to 128 CE). We are all aware of military power of dead-effective legions and remember from history lessons how well-organized was empire's centralzied administration. Quick visit to Rome this year shocked me as an architect (IT still counts) that 2 000 year old bridges might be in better shape than Polish ones from mid 20th century.
@@ -17,7 +20,7 @@ What help Romans expad so quickly and maintain its belongins is a result of a on
 
 Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. Two common languages, Latin and Kone Greek (in east) helped tremendously. The empire spoke in too many native languagues to let even rich merchant posses enough number of slave translators...
 
-## 1.3. AI and "Back to the Presence"
+## 1.3. AI and "Back to the Present"
 
-But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols.
-It is actually quite simple. Please let me explain:smile:
+But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols?
+It is actually quite simple. Please let me explain.
