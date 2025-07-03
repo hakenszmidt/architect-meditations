@@ -8,7 +8,7 @@
 
 ## 1.1. S.P.Q.R.
 
-If asked for an empire ww would quickly come back with Ancient Rome. The success of Roman Empire was a result of a combination of multiple factors allowing it to reach its peak during Pax Romana times (27 BCE to 128 CE). We are all aware of military power of dead-effective legions and remember from history lessons how well-organized was empire's centralized administration. Quick family isit to Rome this year shocked me as an architect (IT still counts) that 2 000 year old bridges might be in better shape than Polish ones from mid 20th century.
+If asked for an empire we would quickly come back with an answer: "Ancient Rome". The success of Roman Empire was a result of a combination of multiple factors allowing it to reach its peak during Pax Romana times (27 BCE to 128 CE). We are all aware of military power of dead-effective legions and remember from history lessons how well-organized was empire's centralized administration. Quick family visit to Rome this year shocked me as an architect (IT domain still counts) that 2 000 year old bridges might be in better shape than Polish ones from mid 20th century. Ave!
 
 TODO: add Pons Cescius photo
 
@@ -58,5 +58,7 @@ MCP is client-server. MCP server is implemented as a lightweight interface hidin
 
 ## 3.3. MCP Components
 Protocol specification is rapidly expanding. Below I summarized version 2025-06-18 (latest one when writing this article).
+![MCP components](mcp_breakdown.png)
+
 
 
