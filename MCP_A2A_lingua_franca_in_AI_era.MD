@@ -78,6 +78,7 @@ It is hard to be a clairvoyant. MCP seems to stay with us for a longer time. Wil
 
 
 ## 5.1. Scenario 1: MCP used for agent to agent communication
+TODO: discuss "agentic behaviours" of MCP: samplings and elicitations.
 
 ## 5.2. Scenario 2: OAS adapts
 
