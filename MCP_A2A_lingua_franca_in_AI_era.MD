@@ -10,7 +10,7 @@
 
 If asked for an empire we would quickly come back with an answer: "Ancient Rome". The success of Roman Empire was a result of a combination of multiple factors allowing it to reach its peak during Pax Romana times (27 BCE to 128 CE). We are all aware of military power of extremely effective legions and remember from history lessons how well-organized was empire's centralized administration. Quick family visit to Rome this year shocked me as an architect (IT domain still counts) that 2 000 year old bridges might be in better shape than Polish ones from mid 20th century. Om top of all of that, pizza in Italy tastes better. Ave!
 
-![Pons Cestius]()
+![Pons Cestius](pons-cestius.jpg)
 
 ## 1.2. Lingua franca
 
