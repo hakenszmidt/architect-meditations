@@ -1,4 +1,4 @@
-# MCP&A2A - lingua franca or the buzzwords?
+# MCP&A2A - lingua franca of AI era?
 ## Quick introduction to brand new AI-friendly protocols for busy people like my boss
 
 # 1. Introduction
@@ -43,13 +43,13 @@ Visual thinkers (architects?) can easily adopt an idea of tho directions, vertic
 
 ![MCP v and A2A h](mcp-a2s-h-v.jpg)
 
-
-
 # 3. Anthropic's Model Context Protocol
 MCP was open-sourced on 25th November to allow ["connecting AI systems with data sources, replacing fragmented integrations with a single protocol"](https://www.anthropic.com/news/model-context-protocol).
 
 ## 3.1. MCP Basics
 Long story short. MCP let applacations provide context to AI model in a standardized way. This way agents are becoming more autonomous are no longer depend on custom implementations for data and tooling aaccess.
+
+![MCP logical view](mcp_hld.png)
 
 ## 3.2. MCP Architecture
 MCP is client-server. MCP server is implemented as a lightweight interface hiding behind itself local data or remote APIs. All is prescribed rather than described. AI agent's model can interact with data and tooling with no prior need to learn how to do it.
