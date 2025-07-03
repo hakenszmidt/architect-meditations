@@ -26,3 +26,7 @@ Expansion through new trade routes and deep harbors was crucial for building tru
 
 But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols?
 It is actually quite simple. Please let me explain.
+
+# 2. New Kids On The Block
+**Model Contenct Protocol** (MCP) and **Agent-To-Agent** (A2A - do not mistake with SAP's "application to application" integration type) are gaining a lot of attention. Do we need even more protocol complexity in already complex integration world? And most importantly do we REALLY need something new?
+
