@@ -1,5 +1,5 @@
 # MCP&A2A - lingua franca of AI era?
-## Quick introduction to brand new, AI-friendly protocols for busy people like my boss
+## About brand new, AI-friendly protocols for busy people like my boss
 
 # 1. Introduction with some dose of history
 
