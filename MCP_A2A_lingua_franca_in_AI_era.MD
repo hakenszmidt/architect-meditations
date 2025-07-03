@@ -37,5 +37,14 @@ Describing AI as "a solution looking for a problem" (thanks again Vlad Grubman!)
 ## 2.2. Solution for "solution looking for a problem" problem
 As an integration architect I find very exciting exposing enterprise systems to AI agents, a completely new category of consumers. Despite having many doubts I see some wisdom in introducing new "AI-friendly" protocols, new *lingua franca* of the modern era. Latin and Koine Greek helped 2000 years ago Roman Empire to expand. Who knows? Perhaps MCP and A2A will similarily help organizations to adopt new technology more widely and with measurable outcomes.
 
-## 3. Anthropic's Model Context Protocol
+## 2.3. New "AI-friendly" protocol? Cool, but why two?
+Google in april not only confirmed support for MCP but also introduced its own (but open) Agent2Agent (A2A) protocol. According to Google's narrative it is "complementary, not competing". For certain it is not trying to overlap with MCP, the opposite is on the other hand not clear (yes agents might expose themselves through MCP).
+Visual thinkers (architects?) can easily adopt an idea of tho directions, vertical and horizontal. First is MCP, A2A is the second. No to so different form "north-south" and "east-west" in network architecture.
+
+
+
+# 3. Anthropic's Model Context Protocol
+
+##
+
 
