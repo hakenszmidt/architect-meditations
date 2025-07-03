@@ -45,7 +45,7 @@ Visual thinkers (architects?) can easily adopt an idea of tho directions, vertic
 
 ![MCP v and A2A h](mcp-a2s-h-v.jpg)
 
-# 3. Anthropic's Model Context Protocol
+# 3. Anthropic's Model Context Protocol (MCP)
 MCP was open-sourced on 25th November to allow ["connecting AI systems with data sources, replacing fragmented integrations with a single protocol"](https://www.anthropic.com/news/model-context-protocol).
 
 ## 3.1. MCP Basics
@@ -62,6 +62,19 @@ MCP is client-server. MCP server is implemented as a lightweight interface hidin
 [Protocol specification](https://modelcontextprotocol.io/introduction) is rapidly expanding. Below I summarized version 2025-06-18 (latest one when writing this article).
 
 ![MCP components](mcp_breakdown.png)
+
+# 4. Google's Agent-2-Agent protocol (A2A)
+
+## 4.1. A2A Basics
+
+## 4.2. A2A Architecture
+
+## 4.3. A2A Components
+
+# What If?
+
+
+
 
 
 
