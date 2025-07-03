@@ -57,7 +57,8 @@ MCP is client-server. MCP server is implemented as a lightweight interface hidin
 ![MCP client-server](mcp_lld.png)
 
 ## 3.3. MCP Components
-Protocol specification is rapidly expanding. Below I summarized version 2025-06-18 (latest one when writing this article).
+[Protocol specification](https://modelcontextprotocol.io/introduction) is rapidly expanding. Below I summarized version 2025-06-18 (latest one when writing this article).
+
 ![MCP components](mcp_breakdown.png)
 
 
