@@ -71,8 +71,16 @@ MCP is client-server. MCP server is implemented as a lightweight interface hidin
 
 ## 4.3. A2A Components
 
-# What If?
+# 5. What If?
+It is hard to be a clairvoyant. MCP seems to stay with us for a longer time. Will A2A join it? Time will tell. 
 
+
+
+## 5.1. Scenario 1: MCP used for agent to agent communication
+
+## 5.2. Scenario 2: OAS adapts
+
+# 6. Final word
 
 
 
