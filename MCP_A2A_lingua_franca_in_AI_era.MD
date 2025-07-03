@@ -34,6 +34,8 @@ It is actually quite simple. Please let me explain.
 Always start with the problem and not the solution. Is seems obvious that when you create a solution first you are later forced to spend countless hours on convincing people that they need it.
 Describing AI as "a solution looking for a problem" (thanks again Vlad Grubman!) resonates with me. Multiple organizations investing a lot of efforts (and money) to find best ways how AI can make their bussineses more profitable and competitive. But there are many challenges, not only data quality ("garbage-in, garbage-out"). On of the most profound are difficult integrations with complex and legacy IT infrastructure. Having trust in AI it will create a proper REST request based on partial, outdated specification seems to be a sort of a wishful thinking. Let's admit - it is hard to build and deploy AI applications, they simply require much custom work on letting models interact with data and users.
 
-## 2.2. Solution to "solution looking for a problem" problem
+## 2.2. Solution for "solution looking for a problem" problem
+As an integration architect I find very exciting exposing enterprise systems to AI agents, a completely new category of consumers. Despite having many doubts I see some wisdom in introducing new "AI-friendly" protocols, new *lingua franca* of the modern era. Latin and Koine Greek helped 2000 years ago Roman Empire to expand. Who knows? Perhaps MCP and A2A will similarily help organizations to adopt new technology more widely and with measurable outcomes.
 
+## 3. Anthropic's Model Context Protocol
 
