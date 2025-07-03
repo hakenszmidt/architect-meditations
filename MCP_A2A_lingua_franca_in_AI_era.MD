@@ -47,6 +47,8 @@ Visual thinkers (architects?) can easily adopt an idea of tho directions, vertic
 
 # 3. Anthropic's Model Context Protocol
 
+MCP was open-sourced on 25th November to allow ["connecting AI systems with data sources, replacing fragmented integrations with a single protocol"](https://www.anthropic.com/news/model-context-protocol).
+
 ##
 
 
