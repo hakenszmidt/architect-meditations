@@ -21,11 +21,11 @@ What help Romans maintain so rapid expansion  is a result of a one more, often o
 > [*Encyclopedia Britannica*](https://www.britannica.com/topic/lingua-franca)<br>
 > At any modern, international workplace (like EPAM) we use today English as lingua franca. Other examples are Old Church Slavonic attributed to Saint Cyril, who managed with its help to spread christanity across Slavic people. These days, in northern India people quite often use Hindi, it is also one of two official Indian languages. In Africa we have Swahili, *hakuna matata*.
 
-Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. Two common languages, Latin and Kone Greek (in east) helped tremendously. The empire spoke in too many native languagues to let even rich merchant posses enough number of slave translators...
+Expansion through new trade routes and deep harbors was crucial for building true economic power in Mediterranean area. There is no better way to integrate conquuered people by making them capable of doing business together. Two common languages, Latin and Kone Greek (in east) helped tremendously. The empire spoke in too many native languagues to let even rich merchant posses enough number of slave translators. Oscans&Umbrians, Celts, Syrians, Berbers, Copts, Iberians Germans, Jews, Slavics - these are just a few...
 
 ## 1.3. AI and "Back to the Present"
 
-But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A two new, emerging AI protocols?
+But why the beforementioned examples of Roman Empire and lingua franca are discussed in an article about MCP&A2A, two new, emerging AI protocols?
 It is actually quite simple. Please let me explain.
 
 # 2. New Kids On The Block
@@ -33,7 +33,7 @@ It is actually quite simple. Please let me explain.
 
 ## 2.1. Solution looking for a problem
 Always start with the problem and not the solution. Is seems obvious that when you create a solution first you are later forced to spend countless hours on convincing people that they need it.
-Describing AI as "a solution looking for a problem" (thanks again Vlad Grubman!) resonates with me. Multiple organizations investing a lot of efforts (and money) to find best ways how AI can make their bussineses more profitable and competitive. But there are many challenges, not only data quality ("garbage-in, garbage-out"). On of the most profound are difficult integrations with complex and legacy IT infrastructure. Having trust in AI it will create a proper REST request based on partial, outdated specification seems to be a sort of a wishful thinking. Let's admit - it is hard to build and deploy AI applications, they simply require much custom work on letting models interact with data and users.
+Describing AI as "a solution looking for a problem" (thanks again Vlad Grubman!) resonates with me. Multiple organizations are investing a lot of efforts (and money of course) to find best ways how AI can make their bussineses more profitable and competitive. But there are many challenges, not only data quality ("garbage-in, garbage-out"). On of the most profound are difficult integrations with complex and legacy IT infrastructure. Having trust in AI it will create a proper REST request based on partial, outdated specification seems to be a sort of a wishful thinking. Let's admit - it is hard to build and deploy AI applications, they simply require much custom work on letting models interact with data and users.
 
 ## 2.2. Solution for "solution looking for a problem" problem
 As an integration architect I find very exciting exposing enterprise systems to AI agents, a completely new category of consumers. Despite having many doubts I see some wisdom in introducing new "AI-friendly" protocols, new *lingua franca* of the modern era. Latin and Koine Greek helped 2000 years ago Roman Empire to expand. Who knows? Perhaps MCP and A2A will similarily help organizations to adopt new technology more widely and with measurable outcomes.
