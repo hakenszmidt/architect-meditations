@@ -1,7 +1,7 @@
 # MCP&A2A - lingua franca of AI era?
-## Quick introduction to brand new AI-friendly protocols for busy people like my boss
+## Quick introduction to brand new, AI-friendly protocols for busy people like my boss
 
-# 1. Introduction
+# 1. Introduction with some dose of history
 
 > To be ignorant of the past is to be forever a child.<br>
 > *Marcus Tullius Cicero*
