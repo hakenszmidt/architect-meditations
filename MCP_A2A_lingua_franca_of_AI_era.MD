@@ -49,6 +49,8 @@ Visual thinkers (architects?) can easily adopt an idea of tho directions, vertic
 # 3. Anthropic's Model Context Protocol (MCP)
 MCP was open-sourced on 25th November to allow ["connecting AI systems with data sources, replacing fragmented integrations with a single protocol"](https://www.anthropic.com/news/model-context-protocol).
 
+![MCP meme](r2s2mcp.jpg)
+
 ## 3.1. MCP Basics
 Long story short. MCP let applacations provide context to AI model in a standardized way. This way agents are becoming more autonomous are no longer depend on custom implementations for data and tooling access.
 
