@@ -44,7 +44,7 @@ As an integration architect I find very exciting exposing enterprise systems to 
 Google in april not only confirmed support for MCP but also introduced its own (but open) Agent2Agent (A2A) protocol. According to Google's narrative it is "complementary, not competing". For certain it is not trying to overlap with MCP, the opposite is on the other hand not clear (yes agents might expose themselves through MCP).
 Visual thinkers (architects?) can easily adopt an idea of tho directions, vertical and horizontal. First is MCP, A2A is the second. No to so different form "north-south" and "east-west" in network architecture. To make it more clear fo myself I even prepared an informal diagram:
 
-
+![MCP verticals and A2A horizontals](mcp-a2s-h-v.jpg)
 
 # 3. Anthropic's Model Context Protocol (MCP)
 MCP was open-sourced on 25th November to allow ["connecting AI systems with data sources, replacing fragmented integrations with a single protocol"](https://www.anthropic.com/news/model-context-protocol).
