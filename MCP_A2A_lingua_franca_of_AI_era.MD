@@ -1,7 +1,7 @@
 # MCP&A2A - lingua franca of AI era?
 ## About brand new, AI-friendly protocols for busy people like my boss
 
-# 1. Introduction with some dose of history
+# 1. Introduction with a dose of history
 
 > To be ignorant of the past is to be forever a child.<br>
 > *Marcus Tullius Cicero*
@@ -11,7 +11,7 @@
 If asked for an empire we would quickly come back with an answer: "Ancient Rome". The success of Roman Empire was a result of a combination of multiple factors allowing it to reach its peak during Pax Romana times (27 BCE to 128 CE). We are all aware of military power of extremely effective legions and remember from history lessons how well-organized was empire's centralized administration. Quick family visit to Rome this year shocked me as an architect (IT domain still counts) that 2 000 year old bridges might be in better shape than Polish ones from mid 20th century. On top of that, pizza in Italy tastes better. Ave!
 
 ![Pons Cestius](pons-cestius.jpg)<br>
-*[Cestius bridge](https://en.m.wikipedia.org/wiki/Pons_Cestius) was built around 1st century BC to connect right bank of Tiber with Tiber Islanf. Even after later restorations it is today still "original" in 1/3*
+*[Cestius bridge](https://en.m.wikipedia.org/wiki/Pons_Cestius) was built around 1st century BC to connect right bank of Tiber with Tiber Island. Even after later restorations it is today still "original" in 1/3*
 
 ## 1.2. Lingua franca
 
@@ -84,9 +84,23 @@ It is hard to be a clairvoyant. MCP seems to stay with us for a longer time. Wil
 TODO: discuss "agentic behaviours" of MCP: samplings and elicitations.
 
 ## 5.2. Scenario 2: OAS adapts
+- how oas spec can be converted to MCP server?
 
-# 6. Final word
+# 6. Vendors
 
+## 6.1. AWS have MCP server for everything
+
+## 6.2. Microsoft and MCP Gateway
+- MCP governance/policies
+
+## 6.3 Salesforce&MuleSoft flex muscles
+- Agentforce adds MCP on top of topics
+- Mulesoft connectors and MCP server for Anypouint APIs
+
+# 7. Final word
+- weekpoints (security)
+- hype or not
+- do not be scared, call to arms
 
 
 
