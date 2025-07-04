@@ -89,13 +89,18 @@ TODO: discuss "agentic behaviours" of MCP: samplings and elicitations.
 # 6. Vendors
 
 ## 6.1. AWS have MCP server for everything
-
-## 6.2. Microsoft and MCP Gateway
+https://github.com/awslabs/mcp?tab=readme-ov-file
+## 6.2. Microsoft and MCP on API Gateway
+-Azure MCP
+https://learn.microsoft.com/en-us/azure/developer/azure-mcp-server/overview
 - MCP governance/policies
+https://techcommunity.microsoft.com/blog/integrationsonazureblog/azure-api-management-your-auth-gateway-for-mcp-servers/4402690
 
 ## 6.3 Salesforce&MuleSoft flex muscles
 - Agentforce adds MCP on top of topics
-- Mulesoft connectors and MCP server for Anypouint APIs
+https://www.salesforce.com/news/press-releases/2025/06/23/agentforce-3-announcement/
+- Mulesoft connectors and crazy "MuleSoft your way"
+https://www.mulesoft.com/platform/api-anypoint-code-builder-extend-mulesoft-to-any-mcp-ide
 
 # 7. Final word
 - weekpoints (security)
